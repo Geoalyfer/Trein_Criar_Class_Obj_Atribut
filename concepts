@@ -1,0 +1,16 @@
+Programação Orientada a Objetos
+
+- paradigma de programação
+- classes e objetos
+- métodos e propriedades
+- 4 pilares: abstração, encapsulamento, herança e polimorfismo
+
+Classes
+class Carro:
+  pass
+
+Objetos
+ferrari = Carro()
+
+Atributos (propriedades da casse)
+ferrari.cor = 'Vermelha'
